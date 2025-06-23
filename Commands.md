@@ -7,7 +7,7 @@
 **1. Clone the repository:**
 
 ```bash
-git clone [https://github.com/YourAccount/DT_SCW_CHAIN.git](https://github.com/YourAccount/DT_SCW_CHAIN.git) 
+git clone [https://github.com/David303ttl/dt_scw_chain.git](https://github.com/David303ttl/dt_scw_chain.git) 
 cd DT_SCW_CHAIN
 ````
 
@@ -42,7 +42,7 @@ poetry run python batch_image_wavetables.py
     poetry env list
     poetry env info
     ```
-  * **Add a new dependency (if you plan to develop the project further):**
+  * **Add a new dependency:**
     ```bash
     poetry add library_name
     ```
