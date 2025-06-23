@@ -63,7 +63,7 @@ The project uses [Poetry](https://python-poetry.org/) for dependency management.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone [https://github.com/TwojeKonto/DT_SCW_CHAIN.git](https://github.com/TwojeKonto/DT_SCW_CHAIN.git) # Change to your repository link
+git clone https://github.com/David303ttl/dt_scw_chain
 cd DT_SCW_CHAIN
 ````
 
