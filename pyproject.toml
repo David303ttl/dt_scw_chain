@@ -3,7 +3,7 @@ name = "dt_scw_chain"
 version = "1.0.0"
 description = "Wavetable creation and manipulation tool for Digitakt Single Cycle Waveforms and Chains"
 authors = ["Paweł Marczak"] 
-repository = "https://github.com/drzhnn/dt_scw_chain.git" 
+repository = "https://github.com/David303ttl/dt_scw_chain.git" 
 license = "MIT"
 readme = "README.md"
 packages = [{ include = "dt_scw_chain", from = "src" }]
